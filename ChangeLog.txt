@@ -1,0 +1,19 @@
+CompSearch V0.0.4
+- Adds a GX ID to every component and item.
+- Allows to find any component or item by it's GX ID using Science Console.
+
+Changelog:
+
+0.0.3: 
+- Added a button to search for an item.
+- Added missing components.
+- Fixed some overlapping text issues.
+- Added scrap calcuation. Total Scrap - shows how much scrap is needed to upgrade to level that you input.
+- Fixed Scrap calculation
+
+0.0.4:
+- Fixed more overlapping issues
+- Fixed scrap calculation
+
+0.0.5:
+- Fixed Sensor Dish and EM processor types.
